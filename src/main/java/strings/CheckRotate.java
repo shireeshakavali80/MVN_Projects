@@ -15,7 +15,7 @@ public class CheckRotate {
     public static boolean areRotatedStrings(String str1, String str2) {
         // Check if either string is null or empty
         if (str1 == null || str2 == null || str1.isEmpty() || str2.isEmpty()) {
-             return false;
+            return false;
         }
 
         // Check if the lengths are different

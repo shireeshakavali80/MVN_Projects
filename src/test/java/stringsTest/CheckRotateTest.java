@@ -15,7 +15,7 @@ public class CheckRotateTest {
 
     @Test
     public void testNotRotatedStrings() {
-        String str1 = "Hey";
+        String str1 = "Hello";
         String str2 = "World";
 
         // Ensure that the method correctly identifies non-rotated strings
